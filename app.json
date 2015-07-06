@@ -1,0 +1,16 @@
+{
+  "name":"node-express-mongoose-demo",
+  "scripts":{},
+  "env":{
+    "IMAGER_S3_BUCKET":{
+      "required":true
+    },
+    "IMAGER_S3_KEY":{
+      "required":true
+    },
+    "IMAGER_S3_SECRET":{
+      "required":true
+    }
+  },
+  "addons":[]
+}
